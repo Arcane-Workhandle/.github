@@ -20,5 +20,5 @@ We are a developer duo—**Shivang Kaushal** and **Sambit Kumar Garanayak**—de
 * **Organization Email:** ace.workhandle@gmail.com
 
 **Our Personal GitHub Profiles:**
-* **Shivang Kaushal:** [@Shivang-Username](https://github.com/YOUR-USERNAME-HERE)
-* **Sambit Kumar Garanayak:** [@Sambit-Username](https://github.com/SAMBIT-USERNAME-HERE)
+* **Shivang Kaushal:** [@ShivangKaushal](https://github.com/ShivangKaushal)
+* **Sambit Kumar Garanayak:** [@Sambit25bce11252](https://github.com/Sambit25bce11252)
