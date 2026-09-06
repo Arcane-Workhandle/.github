@@ -3,8 +3,8 @@
 We are a developer duo—**Shivang Kaushal** and **Sambit Kumar Garanayak**—dedicated to building collaborative, high-impact software projects. AcE Workhandle is the central hub for our joint ventures, hackathon builds, and AI-driven solutions.
 
 ## 🚀 About Us
-* **Focus:** Artificial Intelligence, Machine Learning, and secure web architectures.
-* **Background:** We are developers and AI/ML students at VIT Bhopal, frequently collaborating on complex academic case studies and hackathon problem statements.
+* **Focus:** Artificial Intelligence, Machine Learning, Full-Stack Web Development and secure web architectures.
+* **Background:** We are developers and students at VIT Bhopal, frequently collaborating on complex academic case studies and hackathon problem statements.
 * **Mission:** Turning complex problems into structured, scalable, and secure code.
 
 ## 💻 Featured Project
